@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://authentic-taste-of-the-philippines.vercel.app/sitemap.xml
